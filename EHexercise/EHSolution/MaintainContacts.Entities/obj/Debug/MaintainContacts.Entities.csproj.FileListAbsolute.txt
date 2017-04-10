@@ -1,0 +1,10 @@
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\MaintainContacts.Entities.dll.config
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\MaintainContacts.Entities.dll
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\MaintainContacts.Entities.pdb
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\EntityFramework.dll
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\EntityFramework.xml
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\obj\Debug\MaintainContacts.Entities.dll
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\obj\Debug\MaintainContacts.Entities.pdb
+C:\TestProjects\EHexercise\EHSolution\MaintainContacts.Entities\obj\Debug\MaintainContacts.Entities.csprojResolveAssemblyReference.cache
