@@ -29,4 +29,4 @@ Expected functionality:<br />
 	4. In SQL Server, Execute copied content on newly created database in step 2
 	5. In Visual Studio 2015,Update connection string (name=DbContactsContext) in web.config file of root folder in project MaintainContacts.Main
 
-**For Demo:** http://test.softwaredeveloper.tech
+**For Demo:** <a target="_blank" href="http://test.softwaredeveloper.tech">http://test.softwaredeveloper.tech</a>
