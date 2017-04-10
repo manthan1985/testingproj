@@ -4,17 +4,18 @@ EH Project Exercise
 ## Project exercise
 Project Description:
 Design and implement a production ready application for maintaining contact information. Please choose the frameworks, packages and/or technologies that best suit the requirements.
-Expected functionality:
-		- add a contact
-		- list contacts
-		- edit contact
-		- delete contact
-		Required Contact model:
-		- First Name
-		- Last Name
-		- Email
-		- Phone Number
-		- Status (Possible values: Active/Inactive)
+Expected functionality:<br />
+		- add a contact<br />
+		- list contacts<br />
+		- edit contact<br />
+		- delete contact<br />
+		<br />
+		Required Contact model:<br />
+		- First Name<br />
+		- Last Name<br />
+		- Email<br />
+		- Phone Number<br />
+		- Status (Possible values: Active/Inactive)<br />
 
 ## To Run the application:
 * Visual Studio 2015
